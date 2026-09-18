@@ -1,0 +1,6 @@
+{
+  "name": "NAHOM PERFORMANCE TRACKER",
+  "description": "Sleek, dark-themed trading performance tracker and analysis dashboard with calendar insights, trade logger, and screenshot attachments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
